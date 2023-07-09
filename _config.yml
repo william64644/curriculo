@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "false"
 resume_name:                    "William Torres Araujo"
-resume_title:                   "Estudante autodidata de programação no Ensino Médio"
+resume_title:                   "Estudante autodidata de programação no 3º Ensino Médio"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "william.mine64@gmail.com"
