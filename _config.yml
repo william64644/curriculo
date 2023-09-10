@@ -33,7 +33,7 @@ resume_header_intro: "<p>Estou empenhado em aprender continuamente, crescer prof
 
 # Decide which sections to use
 # comment out to hide
-resume_section_experience:      true
+#resume_section_experience:      true
 resume_section_education:       true
 resume_section_projects:        true
 resume_section_skills:          true
