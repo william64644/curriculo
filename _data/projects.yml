@@ -2,7 +2,7 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # jazznotes.io
-- project: Biblioteca de redes neurais artificiais
+#- project: Biblioteca de redes neurais artificiais
 - project: Framework para criação de IA
   role: "Cargo: Programador"
   duration: "Jun. 2021 &mdash; Atualmente"
