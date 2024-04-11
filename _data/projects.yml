@@ -2,19 +2,18 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
+- project: Framework para criação de IA
+  role: "Cargo: Programador"
+  duration: Jun. 2021 &mdash; Atualmente
   # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+  description: Programar redes neurais artificiais me levou a comprender melhor as pessoas e a me comunicar mais eficientemente.
 
 # Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
+- project: Calculadora de pirâmides
+  role: "Cargo: Programador"
+  duration: Jun. 2021 &mdash; Atualmente
   # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
-
+  description: Fazer cálculos de pirâmies manualmente era uma tarefa muito ineficiente durante o ensino médio, por isso eu construí uma calculadora capaz de resolver esses problemas automaticamente.
 
 
 
