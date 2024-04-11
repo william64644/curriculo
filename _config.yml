@@ -20,7 +20,8 @@ resume_contact_email:           "william.torresaraujo64@gmail.com"
 resume_contact_telephone:       "(11)974820673"
 #resume_contact_address:         "Rua Ribeiro de Barros"
 
-resume_header_contact_info:     "Endereço: São Paulo, SP, Pompéia • Idade: 18 anos<br>Telefone: (11)974820673 • Email: william.torresaraujo64@gmail.com"
+#resume_header_contact_info:     "Endereço: São Paulo, SP, Pompéia • Idade: 18 anos<br>Telefone: (11)974820673 • Email: william.torresaraujo64@gmail.com"
+resume_header_contact_info:     "Email: william.torresaraujo64@gmail.com • Telefone: (11)974820673<br>Idade: 18 anos • Endereço: São Paulo, SP, Pompéia"
 display_header_contact_info:    "true"
 
 resume_header_intro: "<p>Busco constantemente aprimorar minhas habilidades e conhecimentos, para colaborar efetivamente com meus colegas e a organização.</p>"
