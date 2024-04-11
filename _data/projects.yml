@@ -2,18 +2,42 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # jazznotes.io
-#- project: Biblioteca de redes neurais artificiais
-- project: Framework para criação de IA
-  role: "Cargo: Programador"
-  duration: "Jun. 2021 &mdash; Atualmente"
+- project: jazznotes.io
+  role: Founder & Primary Developer
+  duration: 2012 &mdash; Present
   # url: "#"
-  description: Programar redes neurais artificiais me levou a comprender melhor as pessoas e a me comunicar mais eficientemente.
+  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
 
-  - project: Calculadora de pirâmides
-  role: "Cargo: Programador"
-  duration: "Jun. 2021 &mdash; Atualmente"
+# Springfield Community Outreach Group
+- project: Springfield Community Outreach Group
+  role: Co-Founder & Organizer
+  duration: 2007 &mdash; Present
   # url: "#"
-  description: Fazer cálculos de pirâmies manualmente era uma tarefa muito ineficiente durante o ensino médio, por isso eu construí uma calculadora capaz de resolver esses problemas automaticamente.
+  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+
+
+
+
+
+  
+
+
+# Projects
+# uncomment the urls if you wish to display them, and add your own URL
+
+# jazznotes.io
+#- project: Biblioteca de redes neurais artificiais
+#- project: Framework para criação de IA
+#  role: "Cargo: Programador"
+#  duration: "Jun. 2021 &mdash; Atualmente"
+#  # url: "#"
+#  description: Programar redes neurais artificiais me levou a comprender melhor as pessoas e a me comunicar mais eficientemente.
+#
+#  - project: Calculadora de pirâmides
+#  role: "Cargo: Programador"
+#  duration: "Jun. 2021 &mdash; Atualmente"
+#  # url: "#"
+#  description: Fazer cálculos de pirâmies manualmente era uma tarefa muito ineficiente durante o ensino médio, por isso eu construí uma calculadora capaz de resolver esses problemas automaticamente.
 
 # Springfield Community Outreach Group
 #- project: Springfield Community Outreach Group
